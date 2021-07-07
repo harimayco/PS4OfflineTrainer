@@ -1,0 +1,33 @@
+{
+  "name": "DORAEMON STORY OF SEASONS",
+  "id": "CUSA18501",
+  "version": "01.10",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "9999999 Gold",
+      "type": "button",
+      "memory": [
+        {
+          "offset": "205C112E8",
+          "on": "FFC99A3B",
+          "off": "FFC99A3B"
+        }
+      ]
+    },
+    {
+      "name": "99 Gold",
+      "type": "button",
+      "memory": [
+        {
+          "offset": "205C112E8",
+          "on": "63000000",
+          "off": "63000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Odhier"
+  ]
+}

@@ -1,6 +1,12 @@
 ﻿{
     "games": [
         {
+            "name": "DORAEMON STORY OF SEASONS",
+            "title": "CUSA18501",
+            "version": "01.10",
+            "url": "CUSA18501_01.10.json"
+        },
+        {
             "name": "KILLZONE™ SHADOW FALL",
             "title": "CUSA00002",
             "version": "01.00",
